@@ -1,0 +1,15 @@
+{
+    "id": "11a86017-f6d9-4490-966a-e4dea15ea16a",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "murtaza98",
+        "homepage": "https://github.com/murtaa98",
+        "support": "https://github.com/murtaza98"
+    },
+    "name": "testApp",
+    "nameSlug": "testapp",
+    "classFile": "TestAppApp.ts",
+    "description": "Sample app for testing"
+}
